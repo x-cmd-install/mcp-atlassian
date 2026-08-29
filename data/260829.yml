@@ -1,0 +1,60 @@
+about:
+  description: MCP server for Atlassian tools (Confluence, Jira)
+  license: MIT
+  homepage: https://mcp-atlassian.soomiles.com
+  head: e04ce75
+  archived: false
+  latestVersion: v0.23.1
+  collectedAt: 2026-08-29T06:25:51Z
+timeline:
+  created: 2024-12-03
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-19
+popularity:
+  star: 5809
+  watcher: 21
+  fork: 1335
+  release: 74
+  contributor: 210
+  pullRequest: 293
+  issue: 551
+language:
+  Python: 4507539
+  Shell: 14636
+  Jinja: 5658
+  Dockerfile: 2417
+  Go Template: 1668
+totalLine: 4531918
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 25
+    openPR: 15
+    closedIssue: 19
+    openIssue: 16
+    commit: 29
+  last90d:
+    since: 2026-05-31
+    release: 4
+    mergedPR: 86
+    openPR: 35
+    closedIssue: 42
+    openIssue: 28
+    commit: 154
+  last180d:
+    since: 2026-03-02
+    release: 6
+    mergedPR: 155
+    openPR: 58
+    closedIssue: 86
+    openIssue: 80
+    commit: 156
+  last360d:
+    since: 2025-09-03
+    release: 25
+    mergedPR: 361
+    openPR: 58
+    closedIssue: 186
+    openIssue: 104
+    commit: 383
