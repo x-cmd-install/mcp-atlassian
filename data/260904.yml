@@ -1,60 +1,88 @@
 about:
-  description: MCP server for Atlassian tools (Confluence, Jira)
+  description:
+  |
+    MCP server for Atlassian tools (Confluence, Jira)
   license: MIT
   homepage: https://mcp-atlassian.soomiles.com
-  head: 3b9f4d1
+  head: 22369b7
   archived: false
   latestVersion: v0.23.1
-  collectedAt: 2026-09-04T03:44:40Z
+  collectedAt: 2026-09-04T19:25:36Z
 timeline:
   created: 2024-12-03
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-08-19
 popularity:
-  star: 5837
-  watcher: 22
-  fork: 1344
+  star: 5850
+  watcher: 21
+  fork: 1346
   release: 74
-  contributor: 211
-  pullRequest: 300
-  issue: 561
+  contributor: 212
+  pullRequest: 962
+  issue: 563
 language:
-  Python: 4518755
+  Python: 4525716
   Shell: 14636
   Jinja: 5658
   Dockerfile: 2417
   Go Template: 1668
-totalLine: 4543134
+totalBytes: 4550095
 recent:
   last30d:
     since: 2026-08-05
     release: 1
-    mergedPR: 22
+    mergedPR: 23
     openPR: 21
     closedIssue: 13
-    openIssue: 23
-    commit: 26
+    openIssue: 25
+    commit: 27
+  last60d:
+    since: 2026-07-06
+    release: 4
+    mergedPR: 76
+    openPR: 36
+    closedIssue: 35
+    openIssue: 34
+    commit: 121
   last90d:
     since: 2026-06-06
     release: 4
-    mergedPR: 82
+    mergedPR: 83
     openPR: 41
-    closedIssue: 42
-    openIssue: 35
-    commit: 156
+    closedIssue: 43
+    openIssue: 36
+    commit: 157
   last180d:
     since: 2026-03-08
     release: 5
-    mergedPR: 142
+    mergedPR: 143
     openPR: 59
-    closedIssue: 85
+    closedIssue: 87
     openIssue: 82
-    commit: 158
+    commit: 159
   last360d:
     since: 2025-09-09
     release: 25
-    mergedPR: 361
+    mergedPR: 362
     openPR: 64
-    closedIssue: 185
+    closedIssue: 187
     openIssue: 112
-    commit: 385
+    commit: 386
+  last720d:
+    since: 2024-09-14
+    release: 74
+    mergedPR: 662
+    openPR: 64
+    closedIssue: 417
+    openIssue: 146
+    commit: 718
+total:
+  release: 74
+  mergedPR: 662
+  openPR: 64
+  closedIssue: 417
+  openIssue: 146
+  commit: 718
+---
+---
+
