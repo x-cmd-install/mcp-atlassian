@@ -1,6 +1,24 @@
----
-owner-repo: sooperset/mcp-atlassian
-desc:   MCP server for Atlassian tools (Confluence, Jira) 
----
-
 # mcp-atlassian
+
+MCP server for Atlassian tools (Confluence, Jira)
+
+- **Upstream**: <https://github.com/sooperset/mcp-atlassian>
+- **Homepage**: <https://mcp-atlassian.soomiles.com>
+- **Latest release**: `v0.23.1` (2026-08-19)
+- **Last commit**: 2026-09-05
+- **License**: MIT
+- **Stars**: 5868 · **Forks**: 1347 · **Open issues**: 567 · **Contributors**: 212
+
+## Installation
+
+```sh
+x install mcp-atlassian
+```
+
+See <https://x-cmd.com/install/mcp-atlassian> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:19:26Z._
