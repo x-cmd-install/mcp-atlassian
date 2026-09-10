@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.23.1"
   latestRelease: "v0.23.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:54:06Z
+  collectedAt: 2026-09-10T21:00:29Z
 timeline:
   created: 2024-12-03
   lastCommit: 2026-09-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-19
   lastPrerelease: 
 popularity:
-  star: 5887
+  star: 5888
   watcher: 21
   fork: 1354
   release: 74
@@ -87,7 +87,7 @@ total:
   commit: 719
 ---
 path: /home/runner/.x-repo/github.com/sooperset/mcp-atlassian
-collectedAt: 2026-09-10T16:54:10Z
+collectedAt: 2026-09-10T21:00:33Z
 loc:
   Python:
     code: 102982
