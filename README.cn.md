@@ -4,7 +4,7 @@
 
 MCP server for Atlassian tools (Confluence, Jira)
 
-![mcp-atlassian](https://repo.x-cmd.io/mcp-atlassian.svg)
+![mcp-atlassian](https://repo.x-cmd.io/mcp-atlassian.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,22 @@ x install mcp-atlassian
 
 - **最新版本**: `v0.23.1` (2026-08-19)
 - **最近提交**: 2026-09-05
-- **发布时间**: 2026-08-19T00:38:15Z
 
 ## 流行度
 
-- **Star**: 5,878 · **Fork**: 1,352 · **开放 issue**: 568 · **贡献者**: 211
+- **Star**: 5,887 · **Fork**: 1,354 · **开放 issue**: 568 · **贡献者**: 211
 
 ## 累计统计
 
-- **发布数**: 74 · **已合并 PR**: 663 · **开放 PR**: 69 · **已关闭 issue**: 419 · **开放 issue**: 149 · **提交数**: 719
+- **发布数**: 74 · **已合并 PR**: 663 · **开放 PR**: 71 · **已关闭 issue**: 419 · **开放 issue**: 149 · **提交数**: 719
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 23 | 23 | 14 | 25 | 24 |
-| 90d | 2026-06-12 | 4 | 82 | 46 | 43 | 39 | 158 |
-| 360d | 2025-09-15 | 25 | 362 | 69 | 186 | 114 | 387 |
+| 30d | 2026-08-11 | 1 | 23 | 25 | 14 | 25 | 24 |
+| 90d | 2026-06-12 | 4 | 82 | 48 | 43 | 39 | 158 |
+| 360d | 2025-09-15 | 25 | 362 | 71 | 186 | 114 | 387 |
 
 ## 代码规模
 
@@ -61,4 +60,4 @@ mcp-atlassian 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:57:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:54:16Z._
