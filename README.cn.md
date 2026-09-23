@@ -4,7 +4,7 @@
 
 MCP server for Atlassian tools (Confluence, Jira)
 
-[![x-cmd/install — mcp-atlassian Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mcp-atlassian.svg?lang=zh)](https://x-cmd.com/install/mcp-atlassian)
+[![x-cmd/install — mcp-atlassian Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mcp-atlassian.svg?lang=zh)](https://x-cmd.com/install/mcp-atlassian)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install mcp-atlassian
 
 ## 流行度
 
-- **Star**: 5,928 · **Fork**: 1,364 · **开放 issue**: 575 · **贡献者**: 215
+- **Star**: 5,933 · **Fork**: 1,367 · **开放 issue**: 580 · **贡献者**: 215
 
 ## 累计统计
 
-- **发布数**: 74 · **已合并 PR**: 667 · **开放 PR**: 84 · **已关闭 issue**: 422 · **开放 issue**: 153 · **提交数**: 723
+- **发布数**: 74 · **已合并 PR**: 667 · **开放 PR**: 89 · **已关闭 issue**: 422 · **开放 issue**: 158 · **提交数**: 723
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 13 | 32 | 6 | 23 | 10 |
-| last60d | 2026-07-24 | 1 | 38 | 47 | 30 | 37 | 37 |
-| 90d | 2026-06-24 | 4 | 82 | 59 | 42 | 43 | 159 |
-| last180d | 2026-03-26 | 5 | 138 | 74 | 78 | 72 | 164 |
-| 360d | 2025-09-27 | 25 | 366 | 84 | 185 | 114 | 391 |
-| last720d | 2024-10-02 | 74 | 667 | 84 | 422 | 153 | 723 |
+| 30d | 2026-08-24 | 0 | 12 | 36 | 6 | 26 | 10 |
+| last60d | 2026-07-25 | 1 | 36 | 51 | 29 | 42 | 37 |
+| 90d | 2026-06-25 | 4 | 82 | 64 | 42 | 47 | 159 |
+| last180d | 2026-03-27 | 5 | 137 | 78 | 78 | 77 | 164 |
+| 360d | 2025-09-28 | 25 | 366 | 89 | 185 | 119 | 391 |
+| last720d | 2024-10-03 | 74 | 667 | 89 | 422 | 158 | 723 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ mcp-atlassian 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:06:16Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:04:22Z._
