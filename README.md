@@ -37,22 +37,22 @@ Total: **105,641** lines of code across **351** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,019 · **Forks**: 1,405 · **Open issues**: 608 · **Contributors**: 215
+- **Stars**: 6,022 · **Forks**: 1,411 · **Open issues**: 608 · **Contributors**: 215
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 667 · **Open PRs**: 124 · **Closed issues**: 421 · **Open issues**: 187 · **Commits**: 723
+- **Releases**: 74 · **Merged PRs**: 667 · **Open PRs**: 126 · **Closed issues**: 421 · **Open issues**: 187 · **Commits**: 723
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 42 | 1 | 36 | 0 |
-| last60d | 2026-08-21 | 0 | 13 | 74 | 7 | 57 | 13 |
-| 90d | 2026-07-22 | 1 | 39 | 87 | 31 | 72 | 39 |
-| last180d | 2026-04-23 | 4 | 114 | 103 | 64 | 91 | 162 |
-| 360d | 2025-10-25 | 25 | 363 | 124 | 175 | 146 | 391 |
-| last720d | 2024-10-30 | 74 | 667 | 124 | 421 | 187 | 723 |
+| 30d | 2026-09-21 | 0 | 0 | 43 | 1 | 34 | 0 |
+| last60d | 2026-08-22 | 0 | 13 | 74 | 7 | 57 | 13 |
+| 90d | 2026-07-23 | 1 | 38 | 89 | 31 | 72 | 39 |
+| last180d | 2026-04-24 | 4 | 114 | 105 | 64 | 90 | 162 |
+| 360d | 2025-10-26 | 25 | 363 | 126 | 175 | 146 | 391 |
+| last720d | 2024-10-31 | 74 | 667 | 126 | 421 | 187 | 723 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mcp-atlassian lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:02:04Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:53:03Z._
