@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.23.1"
   latestRelease: "v0.23.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:04:15Z
+  collectedAt: 2026-10-31T05:45:56Z
 timeline:
   created: 2024-12-03
   lastCommit: 2026-09-19
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-19
   lastPrerelease: 
 popularity:
-  star: 6068
+  star: 6070
   watcher: 23
-  fork: 1426
+  fork: 1430
   release: 74
   contributor: 215
-  pullRequest: 1055
-  issue: 612
+  pullRequest: 1059
+  issue: 613
 language:
   Python: 4557172
   Shell: 14636
@@ -31,63 +31,63 @@ language:
 totalBytes: 4581551
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
     mergedPR: 0
-    openPR: 38
+    openPR: 42
     closedIssue: 0
     openIssue: 33
     commit: 0
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
     mergedPR: 7
-    openPR: 79
+    openPR: 83
     closedIssue: 5
-    openIssue: 54
+    openIssue: 53
     commit: 8
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 1
-    mergedPR: 31
-    openPR: 93
+    mergedPR: 29
+    openPR: 96
     closedIssue: 24
-    openIssue: 71
+    openIssue: 72
     commit: 33
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 4
     mergedPR: 110
-    openPR: 113
+    openPR: 117
     closedIssue: 61
-    openIssue: 91
+    openIssue: 92
     commit: 162
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 25
     mergedPR: 363
-    openPR: 135
+    openPR: 139
     closedIssue: 173
-    openIssue: 149
+    openIssue: 150
     commit: 391
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 74
     mergedPR: 667
-    openPR: 135
+    openPR: 139
     closedIssue: 421
-    openIssue: 191
+    openIssue: 192
     commit: 723
 total:
   release: 74
   mergedPR: 667
-  openPR: 135
+  openPR: 139
   closedIssue: 421
-  openIssue: 191
+  openIssue: 192
   commit: 723
 ---
 path: /home/runner/.x-repo/github.com/sooperset/mcp-atlassian
-collectedAt: 2026-10-30T06:04:20Z
+collectedAt: 2026-10-31T05:45:57Z
 loc:
   Python:
     code: 103679
