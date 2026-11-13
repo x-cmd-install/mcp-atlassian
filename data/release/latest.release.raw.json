@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/sooperset/mcp-atlassian/releases/442523568",
-  "assets_url": "https://api.github.com/repos/sooperset/mcp-atlassian/releases/442523568/assets",
-  "upload_url": "https://uploads.github.com/repos/sooperset/mcp-atlassian/releases/442523568/assets{?name,label}",
-  "html_url": "https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.2",
-  "id": 442523568,
+  "url": "https://api.github.com/repos/sooperset/mcp-atlassian/releases/442806395",
+  "assets_url": "https://api.github.com/repos/sooperset/mcp-atlassian/releases/442806395/assets",
+  "upload_url": "https://uploads.github.com/repos/sooperset/mcp-atlassian/releases/442806395/assets{?name,label}",
+  "html_url": "https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.3",
+  "id": 442806395,
   "author": {
     "login": "sooperset",
     "id": 32061883,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDONYN7OM4aYF-w",
-  "tag_name": "v0.24.2",
-  "target_commitish": "545c31ca6f59eb772daebe484d4e6ab25e099d12",
-  "name": "v0.24.2",
+  "node_id": "RE_kwDONYN7OM4aZLB7",
+  "tag_name": "v0.24.3",
+  "target_commitish": "caebfa0f01719ad1e0a32265d70449a94c847776",
+  "name": "v0.24.3",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-12T03:43:30Z",
-  "updated_at": "2026-11-12T05:14:25Z",
-  "published_at": "2026-11-12T05:14:25Z",
+  "created_at": "2026-11-12T10:43:12Z",
+  "updated_at": "2026-11-12T10:43:25Z",
+  "published_at": "2026-11-12T10:43:25Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/sooperset/mcp-atlassian/tarball/v0.24.2",
-  "zipball_url": "https://api.github.com/repos/sooperset/mcp-atlassian/zipball/v0.24.2",
-  "body": "## 🔒 Security\n\n- **Project filter: epic and parent references.** With `JIRA_PROJECTS_FILTER` set, `jira_get_issue` no longer fetches an epic in a project outside the filter, and no longer returns that epic's name or key. Creating, updating or transitioning an issue now refuses a parent, epic link or issue link that points outside the filter. This closes a gap left by the 0.24.1 filter fix. Advisory: GHSA-qx5g-fhgg-wm59. Thanks to @zohuyhieuzo03 for the report.\n\n## ✨ Features\n\n- **Transitions: required fields and `update_data`.** `jira_get_transitions` can list the fields a transition screen requires (`expand_fields`), and `jira_transition_issue` accepts `update_data`, for example a worklog when the screen requires Time Spent (#1335). Thanks to @0w1afk.\n\n## Upgrade notes\n\n- With `JIRA_PROJECTS_FILTER` set, `jira_get_issue` makes one extra Jira API call when the issue has an epic link, to check the epic's project.\n",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/sooperset/mcp-atlassian/tarball/v0.24.3",
+  "zipball_url": "https://api.github.com/repos/sooperset/mcp-atlassian/zipball/v0.24.3",
+  "body": "## 🐛 Bug Fixes\n\n- **Windows: attachments and file inputs work again.** Since 0.24.1, every file read or write through the confined file opener failed on Windows with `PermissionError: [Errno 13]`. This broke Jira attachment upload and download by path, Confluence attachments, and `content_file`. Windows now opens the file by path with the same boundary and symlink checks. Linux and macOS keep the directory-anchored open (#1832, #1835). Thanks to @Fabbul for the report and @PerryLink for the fix.\n- **Tests: macOS.** `test_stdio_keeps_wide_cwd` no longer fails on macOS, where `/etc` is a symlink (#1830). Thanks to @mhollingsworth-cs.\n",
+  "mentions_count": 3
 }
