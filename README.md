@@ -14,11 +14,11 @@ x install mcp-atlassian
 
 ## Code insight
 
-Total: **123,780** lines of code across **369** files in the top 5 languages.
+Total: **123,869** lines of code across **369** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 121,810 | 6,353 | 19,454 | 307 |
+| Python | 121,899 | 6,356 | 19,467 | 307 |
 | Yaml | 1,118 | 91 | 80 | 55 |
 | Sh | 349 | 27 | 46 | 4 |
 | Toml | 155 | 0 | 18 | 1 |
@@ -32,27 +32,27 @@ Total: **123,780** lines of code across **369** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.24.5` (2026-11-16)
+- **Latest**: `v0.24.6` (2026-11-16)
 - **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 6,124 · **Forks**: 1,458 · **Open issues**: 632 · **Contributors**: 234
+- **Stars**: 6,129 · **Forks**: 1,461 · **Open issues**: 632 · **Contributors**: 234
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 710 · **Open PRs**: 117 · **Closed issues**: 503 · **Open issues**: 129 · **Commits**: 790
+- **Releases**: 81 · **Merged PRs**: 711 · **Open PRs**: 118 · **Closed issues**: 503 · **Open issues**: 129 · **Commits**: 791
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 6 | 32 | 39 | 7 | 20 | 67 |
-| last60d | 2026-09-17 | 6 | 37 | 68 | 15 | 46 | 67 |
-| 90d | 2026-08-18 | 7 | 56 | 92 | 32 | 63 | 81 |
-| last180d | 2026-05-20 | 10 | 143 | 111 | 83 | 79 | 229 |
-| 360d | 2025-11-21 | 31 | 405 | 117 | 222 | 115 | 456 |
-| last720d | 2024-11-26 | 80 | 710 | 117 | 503 | 129 | 790 |
+| 30d | 2026-10-18 | 7 | 33 | 39 | 5 | 20 | 68 |
+| last60d | 2026-09-18 | 7 | 36 | 69 | 15 | 46 | 68 |
+| 90d | 2026-08-19 | 8 | 52 | 93 | 28 | 63 | 82 |
+| last180d | 2026-05-21 | 11 | 142 | 112 | 79 | 77 | 230 |
+| 360d | 2025-11-22 | 32 | 406 | 118 | 222 | 115 | 457 |
+| last720d | 2024-11-27 | 81 | 711 | 118 | 503 | 129 | 791 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mcp-atlassian lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:39:43Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:18:18Z._
