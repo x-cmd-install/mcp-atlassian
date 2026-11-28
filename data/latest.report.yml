@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.24.8"
   latestRelease: "v0.24.8"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:20:40Z
+  collectedAt: 2026-11-28T08:00:57Z
 timeline:
   created: 2024-12-03
   lastCommit: 2026-11-23
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-11-23
   lastPrerelease: 
 popularity:
-  star: 6164
+  star: 6166
   watcher: 21
   fork: 1467
   release: 83
   contributor: 234
-  pullRequest: 1146
+  pullRequest: 1150
   issue: 638
 language:
   Python: 5703326
@@ -31,63 +31,63 @@ language:
 totalBytes: 5727705
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 9
     mergedPR: 33
-    openPR: 48
+    openPR: 52
     closedIssue: 4
     openIssue: 24
     commit: 70
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 9
     mergedPR: 38
-    openPR: 73
+    openPR: 76
     closedIssue: 14
     openIssue: 47
     commit: 70
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 9
     mergedPR: 47
-    openPR: 105
+    openPR: 109
     closedIssue: 24
-    openIssue: 67
+    openIssue: 66
     commit: 78
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 13
     mergedPR: 137
-    openPR: 127
+    openPR: 131
     closedIssue: 76
     openIssue: 84
     commit: 232
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 33
-    mergedPR: 402
-    openPR: 133
+    mergedPR: 401
+    openPR: 137
     closedIssue: 214
     openIssue: 122
     commit: 455
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 83
     mergedPR: 712
-    openPR: 133
+    openPR: 137
     closedIssue: 501
     openIssue: 136
-    commit: 780
+    commit: 779
 total:
   release: 83
   mergedPR: 713
-  openPR: 133
+  openPR: 137
   closedIssue: 502
   openIssue: 136
   commit: 793
 ---
 path: /home/runner/.x-repo/github.com/sooperset/mcp-atlassian
-collectedAt: 2026-11-27T09:20:41Z
+collectedAt: 2026-11-28T08:00:59Z
 loc:
   Python:
     code: 128992
